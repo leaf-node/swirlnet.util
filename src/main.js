@@ -1,4 +1,4 @@
-// Copyright 2016 Andrew Engelbrecht
+// Created 2016 Andrew Engelbrecht
 //
 // This program is released under CC0
 //
