@@ -18,5 +18,5 @@ The API of this library is currently unstable.
 This swirlnet.util sub-module is licensed under CC0.
 
 Networks, genomes and phenotypes that you evolve with this library are released
-to you under CC0. You may use them freely.
+to you under CC0.
 
