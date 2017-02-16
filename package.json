@@ -1,7 +1,9 @@
 {
   "name": "swirlnet.util",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "assorted utility functions for swirlnet",
+  "url": "https://gitlab.com/sudoman/swirlnet.util/issues",
+  "repository": "gitlab:sudoman/swirlnet.util",
   "main": "src/main.js",
   "files": [
       "src",
@@ -9,8 +11,8 @@
       "COPYING"
     ],
   "dependencies": {
-      "clone": "1.x",
-      "assert": "1.x"
+      "clone": "1.0.x",
+      "assert": "1.4.x"
   },
   "keywords": [
     "utility"
