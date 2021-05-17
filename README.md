@@ -13,6 +13,6 @@ See the `API.md` file in the plain `swirlnet` repo for API documentation.
 
 This swirlnet.util sub-module is licensed under CC0.
 
-Networks, genomes and phenotypes that you evolve with this library are released
-to you under CC0.
+The authors of swirlnet claim no license over the networks, genomes and
+phenotypes evolved using this library.
 
