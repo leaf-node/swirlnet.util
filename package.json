@@ -2,8 +2,8 @@
   "name": "swirlnet.util",
   "version": "1.0.0",
   "description": "assorted utility functions for swirlnet",
-  "url": "https://gitlab.com/sudoman/swirlnet.util/issues",
-  "repository": "gitlab:sudoman/swirlnet.util",
+  "url": "https://github.com/leaf-node/swirlnet.util/issues",
+  "repository": "github:leaf-node/swirlnet.util",
   "main": "src/main.js",
   "files": [
       "src",
